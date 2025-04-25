@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-cohere
+cohere
+chromadb
+tiktoken
+pypdf

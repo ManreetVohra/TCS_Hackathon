@@ -12,7 +12,7 @@ Built using:
 
 ## 💡 Problem Statement
 
-Insurance customers often face difficulty understanding their policies, coverage options, premiums, and claim processes. Human customer support can be slow and expensive to scale. To address this, we've created an AI chatbot that can understand queries in natural language and return accurate, contextually relevant information using uploaded company policy documents (PDFs or TXT files).
+Insurance customers often face difficulty understanding their policies, coverage options, premiums, and claim processes. Human customer support can be slow and expensive to scale. To address this, I've created an AI chatbot that can understand queries in natural language and return accurate, contextually relevant information using uploaded company policy documents (PDFs or TXT files).
 
 ---
 
